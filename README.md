@@ -1,2 +1,2 @@
 # tudou_game
-A easy game  for someone
+python3.6编写且需要pygame
